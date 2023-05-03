@@ -1,0 +1,2 @@
+class ChangeColumnsToClient < ApplicationRecord
+end

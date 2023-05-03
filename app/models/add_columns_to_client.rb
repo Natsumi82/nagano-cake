@@ -1,0 +1,2 @@
+class AddColumnsToClient < ApplicationRecord
+end
